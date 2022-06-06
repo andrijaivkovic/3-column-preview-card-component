@@ -22,6 +22,7 @@ font-family: 'Lexend Deca', sans-serif; */
 html {
   font-family: "Lexend Deca", sans-serif;
   color: var(--neutral-200);
+  image-rendering: -webkit-optimize-contrast;
 }
 
 body {
